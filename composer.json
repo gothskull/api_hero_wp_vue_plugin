@@ -1,0 +1,16 @@
+{
+    "name": "bwc/super-hero",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "classmap" : ["classes"]
+    },
+    "authors": [
+        {
+            "name": "Hernando J Chaves",
+            "email": "hernando.chaves.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
